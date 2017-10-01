@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "application.",
+  "main": "server.js",
+  "author": "John Tracy",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "method-override": "^2.1.3",
+    "morgan": "^1.1.1",
+    "cors": "2.8.1",
+    "mysql": "^2.14.1"
+  }
+}
